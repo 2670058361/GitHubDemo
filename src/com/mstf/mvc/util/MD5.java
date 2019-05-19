@@ -8,6 +8,7 @@ public class MD5 {
 	public static String getInstance(String plainText)
 			throws NoSuchAlgorithmException {
 		//第二次修改
+		//第二次修改
 		// 生成一个MD5加密计算摘要
 		MessageDigest md = MessageDigest.getInstance("MD5");
 		// 计算md5函数
