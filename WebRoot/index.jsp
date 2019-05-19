@@ -27,7 +27,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <form:form action="#" modelAttribute="info" method="post"> 
   		 <table>
   		 	<tr>
-  		 		<td>用户名</td><td><input type="text"></td>
+  		 		<td>用户名字</td><td><input type="text"></td>
   		 	</tr>
   		 	<tr>
   		 		<td>密码</td><td><input type="password"></td>
